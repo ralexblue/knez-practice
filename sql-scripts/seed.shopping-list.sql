@@ -1,0 +1,25 @@
+INSERT INTO shopping_list (name, price, category, date_added) VALUES
+('Flobulator 2000',               12.00, 'Main', '2016-01-16 12:00:00'),
+  ('Drip-catching coffee mug',      20.99, 'Snack', '2016-01-16 12:00:00'),
+  ('Infinite improbability drive',  0.01, 'Snack', '2016-01-16 12:00:00'),
+  ('Self-drying jacket',            23.00, 'Lunch', '2016-01-16 12:00:00'),
+  ('Germ hunter',                   27.00, 'Breakfast', '2016-01-16 12:00:00'),
+  ('Nutrimatic drinks dispenser',   65.00, 'Lunch', '2016-01-16 12:00:00'),
+  ('Double decker couch',           160.00, 'Lunch', '2016-01-16 12:00:00'),
+  ('One-size fits all shoes',       53.00, 'Breakfast', '2016-01-16 12:00:00'),
+  ('Z-Eye',                         31.00, 'Lunch', '2016-01-16 12:00:00'),
+  ('Sonic screwdriver',             77.00, 'Breakfast', '2016-01-16 12:00:00'),
+  ('Holographic wrestling game',    19.99, 'Snack', '2016-01-16 12:00:00'),
+  ('Holophonor',                    80.00, 'Snack', '2016-01-16 12:00:00'),
+  ('Rebreather',                    24.95, 'Snack', '2016-01-16 12:00:00'),
+  ('Light cycle',                   2850.00, 'Snack', '2016-01-16 12:00:00'),
+  ('Skin-Healing patch',            14.00, 'Main', '2016-01-16 12:00:00'),
+  ('Safety foam',                   34.00, 'Breakfast', '2016-01-16 12:00:00'),
+  ('Psychic paper',                 90.00, 'Main', '2016-01-16 12:00:00'),
+  ('Point of view gun',             145.20, 'Main', '2016-01-16 12:00:00'),
+  ('Unobtainium',                   50.00, 'Breakfast', '2016-01-16 12:00:00'),
+  ('Neuralizer',                    42.00, 'Main', '2016-01-16 12:00:00'),
+  ('Everlasting gobstopper',        1.00, 'Main', '2016-01-16 12:00:00'),
+  ('Grain',                         665.99, 'Main', '2016-01-16 12:00:00');
+
+COMMIT;
